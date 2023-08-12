@@ -32,12 +32,10 @@
     <Folder Include="wwwroot\" />
     <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\js\" />
-    <Folder Include="Pages\Products\" />
     <Folder Include="Pages\Shared\" />
     <Folder Include="wwwroot\lib\" />
   </ItemGroup>
   <ItemGroup>
-    <None Remove="Pages\Products\" />
     <None Remove="Pages\Shared\" />
   </ItemGroup>
 </Project>

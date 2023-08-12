@@ -15,28 +15,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Products/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Products/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Products/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Products/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Products/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/rubenpatino/Desktop/myProjects/learnAspNetCoreSolution/learningEFCore/Pages/Shared/_Layout.cshtml]
