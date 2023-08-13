@@ -15,10 +15,10 @@
     <h1>Index</h1>
 
     <p>
-        <a asp-page="Create">Create New</a>
+        <a asp-page="Create" class="btn btn-primary">Create New</a>
     </p>
-    <table class="table table-bordered">
-        <thead>
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
             <tr>
                 <th>
                     @Html.DisplayNameFor(model => model.Product[0].Name)
@@ -40,9 +40,9 @@
                         @Html.DisplayFor(modelItem => item.Price)
                     </td>
                     <td>
-                        <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
-                        <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
-                        <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                        <a asp-page="./Edit" asp-route-id="@item.Id" class="badge bg-secondary">Edit</a> |
+                        <a asp-page="./Details" asp-route-id="@item.Id" class="badge bg-info">Details</a> |
+                        <a asp-page="./Delete" asp-route-id="@item.Id" class="badge bg-danger">Delete</a>
                     </td>
                 </tr>
             }
